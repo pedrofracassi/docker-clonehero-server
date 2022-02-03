@@ -15,3 +15,5 @@ Pull Requests are very welcome!
 
 - [ ] Pull server binary from clonehero.net during build instead of keeping it in the repo
 - [ ] Default to no password when `SERVER_PASSWORD` is not set
+- [ ] Automatic builds using GitHub Actions
+- [ ] Push to Docker Hub
